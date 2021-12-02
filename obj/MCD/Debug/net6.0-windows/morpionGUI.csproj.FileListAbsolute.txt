@@ -1,0 +1,15 @@
+C:\Users\dalin\Documents\workspace\CoursCsharp\morpionGUI\bin\MCD\Debug\net6.0-windows\morpionGUI.exe
+C:\Users\dalin\Documents\workspace\CoursCsharp\morpionGUI\bin\MCD\Debug\net6.0-windows\morpionGUI.deps.json
+C:\Users\dalin\Documents\workspace\CoursCsharp\morpionGUI\bin\MCD\Debug\net6.0-windows\morpionGUI.runtimeconfig.json
+C:\Users\dalin\Documents\workspace\CoursCsharp\morpionGUI\bin\MCD\Debug\net6.0-windows\morpionGUI.dll
+C:\Users\dalin\Documents\workspace\CoursCsharp\morpionGUI\bin\MCD\Debug\net6.0-windows\ref\morpionGUI.dll
+C:\Users\dalin\Documents\workspace\CoursCsharp\morpionGUI\bin\MCD\Debug\net6.0-windows\morpionGUI.pdb
+C:\Users\dalin\Documents\workspace\CoursCsharp\morpionGUI\obj\MCD\Debug\net6.0-windows\morpionGUI.csproj.AssemblyReference.cache
+C:\Users\dalin\Documents\workspace\CoursCsharp\morpionGUI\obj\MCD\Debug\net6.0-windows\morpionGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalin\Documents\workspace\CoursCsharp\morpionGUI\obj\MCD\Debug\net6.0-windows\morpionGUI.AssemblyInfoInputs.cache
+C:\Users\dalin\Documents\workspace\CoursCsharp\morpionGUI\obj\MCD\Debug\net6.0-windows\morpionGUI.AssemblyInfo.cs
+C:\Users\dalin\Documents\workspace\CoursCsharp\morpionGUI\obj\MCD\Debug\net6.0-windows\morpionGUI.csproj.CoreCompileInputs.cache
+C:\Users\dalin\Documents\workspace\CoursCsharp\morpionGUI\obj\MCD\Debug\net6.0-windows\morpionGUI.dll
+C:\Users\dalin\Documents\workspace\CoursCsharp\morpionGUI\obj\MCD\Debug\net6.0-windows\ref\morpionGUI.dll
+C:\Users\dalin\Documents\workspace\CoursCsharp\morpionGUI\obj\MCD\Debug\net6.0-windows\morpionGUI.pdb
+C:\Users\dalin\Documents\workspace\CoursCsharp\morpionGUI\obj\MCD\Debug\net6.0-windows\morpionGUI.genruntimeconfig.cache
